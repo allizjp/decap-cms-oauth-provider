@@ -1,0 +1,9 @@
+public/
+.now
+.vercel
+
+node_modules
+
+# Env
+.env
+!.env.sample
