@@ -1,4 +1,10 @@
 {
   "name": "decap-cms-oauth-provider",
-  "packageManager": "yarn@4.9.4"
+  "packageManager": "yarn@4.9.4",
+  "dependencies": {
+    "netlify-cms-oauth-provider-node": "^2.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^46.1.1"
+  }
 }
